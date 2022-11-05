@@ -1,0 +1,21 @@
+{
+  "name": "noname",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "lint": "eslint . --ext .ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdulhai",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "@types/node": "^18.7.14",
+    "rxjs": "^7.5.6",
+    "ts-node": "^10.9.1"
+  }
+}
