@@ -20,7 +20,6 @@ Node 12 or newer (since worker threads were released in Node v10 and got stable 
 Install the dependencies and devDependencies.
 
 ```sh
-cd tasks
 yarn
 ```
 
